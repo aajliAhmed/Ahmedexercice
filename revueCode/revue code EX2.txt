@@ -1,0 +1,13 @@
+int main()
+{
+    int n,r=1;			// r=1 ;n pas initiallisee
+    printf("numero : ");
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++){
+        r=r*i;
+    }
+    
+       printf("%d",r);
+       
+     return 0;
+}
