@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner Nombre =new Scanner(System.in);
+	    System.out.println("Entrer un nombre :");
+	    int nbr = Nombre.nextInt();
+	    if(nbr%2 ==0){
+	        System.out.println("le nombre esr paire");
+	    }
+	    else{
+	        System.out.println("le nombre esr impaire");
+	    }
+		
+	}
+}
