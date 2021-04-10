@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner Nombre =new Scanner(System.in);
+	    double S;
+	    System.out.println("Entrer le nombre a entier :");
+	    int a = Nombre.nextInt();
+	    System.out.println("Entrer le nombre b entier :");
+	    int b = Nombre.nextInt();
+	    System.out.println("Entrer le nombre c entier :");
+	    int c = Nombre.nextInt();
+	    System.out.println("Entrer le nombre x  :");
+	    double x = Nombre.nextDouble();
+	    double r=a+b;
+	    S=((r)/2)*Math.pow(x,3)+(Math.pow(r,2)*Math.pow(x,2))+a+b+c;
+	    System.out.println("la valeur de polenome est :"+S);
+	    
+	    
+		
+	}
+}
