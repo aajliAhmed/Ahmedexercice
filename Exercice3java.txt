@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner Nombre =new Scanner(System.in);
+	    int a = 1;
+	    System.out.println("Entrer un nombre  :");
+	    int nmbr = Nombre.nextInt();
+	    for(int i=nmbr;i>0;i--){
+	        a = a*i;
+	    }
+	    System.out.println("le factorielle de nombre "+nmbr+" est : "+a);
+	    
+	    
+	    
+		
+	}
+}
