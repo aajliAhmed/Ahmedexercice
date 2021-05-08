@@ -1,0 +1,9 @@
+exercice 19 :
+
+1) int c = 61;
+
+2) int c = 120;
+
+3) int c = 2;
+
+4) int c = 600;
