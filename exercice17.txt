@@ -1,0 +1,30 @@
+Exercice 17 :
+
+byte b1=10 , b2=20 ;
+
+short p=200 ;
+								
+int n=500 ;
+
+long q=100 ;
+
+float x=2.5f ;
+
+double y=5.25 ;
+
+=====================================
+1) int A = 30;
+
+2) int A = 210;
+
+3) int A = 200;
+
+4) long A = 6100;
+
+5) float A = 5002.5;
+
+6) float A = 400.0;
+
+7) double A = 800.0;
+
+8) float A = 800.0;
