@@ -1,0 +1,11 @@
+exercice 20 : 
+
+1) vrai i=10 j=5;
+
+	syntax error
+
+	faux i=10 j=5;
+
+	vrai i=10 j=5;
+
+	
