@@ -1,0 +1,17 @@
+exercice 22:
+
+1) incorrect int dans byte
+
+2) correct 
+
+3) inccorrect byte < 500
+
+4) correct
+
+5) correct
+
+6) incorrect byte*byte 
+
+7) incorrect byte + int = int
+
+8) correct 
