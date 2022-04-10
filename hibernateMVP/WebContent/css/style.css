@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+body {
+  width: 100%;
+  float: left;
+}
+
+.class,
+.class1,
+.class2 {
+  width: 33.33%;
+  float: left;
+  height: 100px;
+}
+.class{
+	background-color: #83dbfc;
+	text-align: center;
+	padding-top: 25px;
+}
+.class1{
+	background-color: #58f10e;
+	text-align: center;
+	padding-top: 25px;
+}
+.class2{
+	background-color: #f99206;
+	text-align: center;
+	padding-top: 25px;
+}
+p{
+	text-align: center;
+	padding-top: 25px;
+}
